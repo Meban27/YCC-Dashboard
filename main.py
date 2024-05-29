@@ -7,7 +7,6 @@ st.set_page_config(
     page_title= "YCC Finance",
 )
 
-
 class Multiapp:
 
     def __init__(self):
@@ -59,7 +58,6 @@ class Multiapp:
         if app=="About":
             About.app()
         
-    
-    run()
+run()
             
             
